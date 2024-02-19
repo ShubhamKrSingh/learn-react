@@ -20,3 +20,7 @@ This project is helpful in understanding of tailwind insection in project and us
 ## 04bgChanger 
 
 A project to understand the concept of useState with revision
+
+## 05passwordGenerator
+
+This project is all about useCallback, useEffect and useRef how to optimize and rerender on multiple dependencies and getting a reference of something.
